@@ -12,6 +12,7 @@ DOMAIN,emby.maying.club
 
 # > 流媒体emby-mdss服务器
 DOMAIN,emby.mdss.cloud
+IP-CIDR,172.16.0.0/12
 
 # > 流媒体emby-ytoo服务器
 DOMAIN,emby.ytoo.li
