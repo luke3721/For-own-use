@@ -74,5 +74,5 @@ DOMAIN,cf.jmsooo.com
 DOMAIN,hk.jmsooo.com
 DOMAIN,sg.jmsooo.com
 
-# Emby 终点站
+# > 流媒体Emby终点站服务器
 DOMAIN-SUFFIX,emby.wtf
