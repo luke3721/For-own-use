@@ -73,3 +73,6 @@ DOMAIN,jmsooo.com
 DOMAIN,cf.jmsooo.com
 DOMAIN,hk.jmsooo.com
 DOMAIN,sg.jmsooo.com
+
+# Emby 终点站
+DOMAIN-SUFFIX,emby.wtf
