@@ -25,9 +25,10 @@ DOMAIN,emby.prprcloud.com
 # > 流媒体emby-nyancat服务器
 DOMAIN,emby.nyancat.net
 
-# > 流媒体emby-Plus体验服
+# > 流媒体普拉斯影业服务器
 DOMAIN,emby.plusmedia.site
-DOMAIN,emby-cf.plusmedia.site 
+DOMAIN,emby-sg.plusmedia.site
+DOMAIN,emby-cf.plusmedia.site
 DOMAIN,emby.xeton.dev
 DOMAIN,jellyfin.xeton.dev
 DOMAIN,movie.xeton.dev
@@ -63,15 +64,6 @@ DOMAIN,line.emby.men
 
 # > 流媒体SoCloud服务器
 DOMAIN,emby.run
-
-# > 流媒体普拉斯影业服务器
-DOMAIN,emby.plusmedia.site
-DOMAIN,emby-sg.plusmedia.site
-DOMAIN,emby-cf.plusmedia.site
-DOMAIN,emby.xeton.dev
-DOMAIN,jellyfin.xeton.dev
-DOMAIN,movie.xeton.dev
-DOMAIN,servers.xeton.dev
 
 # > 流媒体WaveCloud服务器
 DOMAIN,embyserver.ga
