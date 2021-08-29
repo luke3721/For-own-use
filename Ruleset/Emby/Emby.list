@@ -62,10 +62,10 @@ HOST, pornemby.club, Emby
 HOST, emby.immtel.com, Emby
 
 # > 流媒体Odyssey服务器
-HOST, cf.odysseyplus.site
-HOST, agahk.odysseyplus.site
-HOST, agasg.odysseyplus.site
-HOST, ru.odysseyplus.site
+HOST, cf.odysseyplus.site, Emby
+HOST, agahk.odysseyplus.site, Emby
+HOST, agasg.odysseyplus.site, Emby
+HOST, ru.odysseyplus.site, Emby
 
 # > 流媒体Exflux服务器
 HOST, line.emby.men, Emby
