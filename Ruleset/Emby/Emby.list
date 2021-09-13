@@ -76,9 +76,6 @@ HOST, emby.run, Emby
 # > 流媒体WaveCloud服务器
 HOST, embyserver.ga, Emby
 
-# > 流媒体Emby终点站服务器
-HOST, emby.wtf, Emby
-
 # > 流媒体Skicat专属服
 HOST, https://skicat.tv, Emby
 
